@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "name": "Never Gonna Give You Up / Rick Astley",
+      "price": "1987",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Allstar / Smash Mouth",
+      "price": "1999",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "John Cena / The Time Is Now",
+      "price": "2009",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Africa / Toto",
+      "price": "1982",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "We Are Number One / LazyTown",
+      "price": "2014",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Man's Not Hot / BIG SHAQ",
+      "price": "2017",
+      "picture": "https://placeimg.com/640/480/any"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Never Gonna Give You Up / Rick Astley",
+      "price": "1987",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Africa / Toto",
+      "price": "1982",
+      "picture": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Man's Not Hot / BIG SHAQ",
+      "price": "2017",
+      "picture": "https://placeimg.com/640/480/any"
+    }
+  ]
+}
