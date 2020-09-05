@@ -1,5 +1,5 @@
 {
-  "name": "webcom-assignment",
+  "name": "webcommunikation-assignment-2",
   "version": "1.0.0",
   "description": "JSON Node file for LowDB API Assignment",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Mattias Lind von Vogelsang",
+  "author": "Lukas Tucker",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
